@@ -1,7 +1,0 @@
-# .gitignore 파일 내용
-.env
-database.db
-__pycache__/
-*.pyc
-*.log
-.DS_Store
